@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="self-learning/self-learning.vcxproj" Id="2ea12368-322e-41ca-a8f7-6122ccef5115" />
+</Solution>
